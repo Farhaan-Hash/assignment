@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-run npm serve-jsonn for local json server.
+run- npm run serve-json for local json server.
 in another terminal npm run dev 
 # or
 yarn dev
